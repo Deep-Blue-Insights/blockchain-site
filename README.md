@@ -18,3 +18,5 @@ The application should be up and running at [http://localhost:5000](http://local
 
 
 To play around by spinning off multiple custom nodes, use the `add_nodes/` endpoint to register a new node. To update the node with which the application syncs, change `CONNECTED_NODE_ADDRESS` field in the views.py
+
+thank you
